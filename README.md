@@ -18,7 +18,7 @@ A simple and efficient program to convert basic units.
 
 ---
 
-💡 Notes
+## 💡 Notes
 
 - Most of the program, incluiding the interface is in Spanish.
 - This is one of my very first projects, so it is an special one.
